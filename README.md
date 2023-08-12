@@ -1,2 +1,2 @@
 # simple-graphics-engine
-Learning C++ by trying to make a simple graphics engine.
+Trying to learn C++ by making a simple graphics engine.
